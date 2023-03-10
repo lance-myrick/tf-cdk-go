@@ -1,10 +1,10 @@
 package main
 
-import (
-	"github.com/aws/jsii-runtime-go"
-	"github.com/hashicorp/terraform-cdk-go/cdktf"
-	"testing"
-)
+//import (
+//	"github.com/aws/jsii-runtime-go"
+//	"github.com/hashicorp/terraform-cdk-go/cdktf"
+//	"testing"
+//)
 
 // The tests below are example tests, you can find more information at
 // https://cdk.tf/testing
